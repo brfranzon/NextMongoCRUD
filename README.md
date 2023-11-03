@@ -1,0 +1,2 @@
+# nextmongocrud
+NextJS Mongo CRUD
